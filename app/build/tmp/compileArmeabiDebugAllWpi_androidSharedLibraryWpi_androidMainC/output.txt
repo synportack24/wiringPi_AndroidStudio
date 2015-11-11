@@ -1,0 +1,2 @@
+See file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/compileArmeabiDebugAllWpi_androidSharedLibraryWpi_androidMainC/output.txt for all output for compileArmeabiDebugAllWpi_androidSharedLibraryWpi_androidMainC.
+Finished compileArmeabiDebugAllWpi_androidSharedLibraryWpi_androidMainC, see full log file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/compileArmeabiDebugAllWpi_androidSharedLibraryWpi_androidMainC/output.txt.

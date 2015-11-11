@@ -1,0 +1,4 @@
+See file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/linkArmeabi-v7aDebugAllWiringPiSharedLibrary/output.txt for all output for linkArmeabi-v7aDebugAllWiringPiSharedLibrary.
+linking libwiringPi.so successful.
+
+Finished linkArmeabi-v7aDebugAllWiringPiSharedLibrary, see full log file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/linkArmeabi-v7aDebugAllWiringPiSharedLibrary/output.txt.

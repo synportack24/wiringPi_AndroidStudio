@@ -1,0 +1,104 @@
+See file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/compileMips64DebugAllWiringPiSharedLibraryWiringPiMainC/output.txt for all output for compileMips64DebugAllWiringPiSharedLibraryWiringPiMainC.
+compiling maxdetect.c successful.
+
+compiling piFace.c successful.
+
+compiling wpi_android.c successful.
+
+compiling lcd.c successful.
+
+compiling piNes.c successful.
+
+compiling gertboard.c successful.
+
+compiling ds1302.c successful.
+
+compiling piGlow.c successful.
+
+compiling wiringPiSPI.c successful.
+
+compiling lcd128x64.c successful.
+
+compiling sr595.c successful.
+
+compiling mcp3422.c successful.
+
+compiling mcp3004.c successful.
+
+compiling max31855.c successful.
+
+compiling pcf8574.c successful.
+
+compiling wiringPiI2C.c successful.
+
+compiling mcp3002.c successful.
+
+compiling pcf8591.c successful.
+
+compiling mcp4802.c successful.
+
+compiling wiringSerial.c successful.
+
+compiling mcp23016.c successful.
+
+compiling mcp23008.c successful.
+
+compiling mcp23017.c successful.
+
+compiling softServo.c successful.
+
+compiling max5322.c successful.
+
+compiling piHiPri.c successful.
+
+compiling mcp23s08.c successful.
+
+compiling piThread.c successful.
+
+compiling drcSerial.c successful.
+
+compiling wiringShift.c successful.
+
+compiling sn3218.c successful.
+
+compiling softTone.c successful.
+
+compiling mcp23s17.c successful.
+
+compiling softPwm.c successful.
+
+compiling wiringPi.c successful.
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c:147:0: warning: "PAGE_SIZE" redefined
+ #define PAGE_SIZE   (4*1024)
+ ^
+In file included from /home/andrew/Android/Sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/linux-x86_64/lib/gcc/mips64el-linux-android/4.9/include-fixed/limits.h:168:0,
+                 from /home/andrew/Android/Sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/linux-x86_64/lib/gcc/mips64el-linux-android/4.9/include-fixed/syslimits.h:7,
+                 from /home/andrew/Android/Sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/linux-x86_64/lib/gcc/mips64el-linux-android/4.9/include-fixed/limits.h:34,
+                 from /home/andrew/Android/Sdk/ndk-bundle/platforms/android-21/arch-mips64/usr/include/signal.h:34,
+                 from /home/andrew/Android/Sdk/ndk-bundle/platforms/android-21/arch-mips64/usr/include/poll.h:34,
+                 from /home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c:59:
+/home/andrew/Android/Sdk/ndk-bundle/platforms/android-21/arch-mips64/usr/include/limits.h:119:0: note: this is the location of the previous definition
+ #define PAGE_SIZE 4096
+ ^
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c: In function 'interruptHandler':
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c:1865:7: warning: return makes pointer from integer without a cast
+       return wiringPiFailure (WPI_FATAL, "wiringPiISR: wiringPi has not been initialised. Unable to continue.\n") ;
+       ^
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c: In function 'wiringPiSetup':
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c:2183:9: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     if ((int32_t)gpio == -1)
+         ^
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c:2208:9: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     if ((int32_t)gpio == -1)
+         ^
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c:2214:9: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     if ((int32_t)pwm == -1)
+         ^
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c:2220:9: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     if ((int32_t)clk == -1)
+         ^
+/home/andrew/AndroidStudioProjects/wiringPi-master1/app/src/main/jni/wiringPi/wiringPi.c:2226:9: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     if ((int32_t)pads == -1)
+         ^
+
+Finished compileMips64DebugAllWiringPiSharedLibraryWiringPiMainC, see full log file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/compileMips64DebugAllWiringPiSharedLibraryWiringPiMainC/output.txt.

@@ -1,0 +1,4 @@
+See file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/linkMips64DebugAllWiringPiSharedLibrary/output.txt for all output for linkMips64DebugAllWiringPiSharedLibrary.
+linking libwiringPi.so successful.
+
+Finished linkMips64DebugAllWiringPiSharedLibrary, see full log file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/linkMips64DebugAllWiringPiSharedLibrary/output.txt.

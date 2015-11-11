@@ -1,0 +1,4 @@
+See file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/linkArm64-v8aDebugAllWpi_androidSharedLibrary/output.txt for all output for linkArm64-v8aDebugAllWpi_androidSharedLibrary.
+linking libwpi_android.so successful.
+
+Finished linkArm64-v8aDebugAllWpi_androidSharedLibrary, see full log file:///home/andrew/AndroidStudioProjects/wiringPi-master1/app/build/tmp/linkArm64-v8aDebugAllWpi_androidSharedLibrary/output.txt.
