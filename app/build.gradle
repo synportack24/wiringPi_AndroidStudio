@@ -22,7 +22,7 @@ model {
 
     android.ndk {
         moduleName = "wpi_android"
-        platformVersion = 19
+        platformVersion = 21
         //cppFlags += "-DANDROID".toString()
         //cppFlags += "-I${file("src/main/jni")}".toString()
         //cppFlags += "-I${file("src/main/jni/wiringPi")}".toString()
